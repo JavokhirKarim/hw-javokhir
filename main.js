@@ -128,8 +128,9 @@
 // console.log(neww);
 
 ///10-masaal
-let str = "abcd";
-for (let i = 0; i < str.length; i++) {
-  let arr = str.split("");
-  console.log(arr[i]);
-}
+// berilgan stringni 2tadan qilib bo'lib oling,agar oxirgi harf toq 1 ta qolib ketsa o'rniga '_' qo'ying
+// let str = "abcd";
+// for (let i = 0; i < str.length; i++) {
+//   let arr = str.split("");
+//   console.log(arr[i]);
+// }
